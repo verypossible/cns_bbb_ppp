@@ -66,3 +66,6 @@ BR2_PACKAGE_BBORG_OVERLAYS=y
 BR2_PACKAGE_LIBP11=y
 BR2_PACKAGE_NBTTY=y
 BR2_PACKAGE_NERVES_CONFIG=y
+# facilitate cellular below
+BR2_PACKAGE_PPPD=y
+# facilitate cellular above

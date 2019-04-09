@@ -3,4 +3,8 @@ CONFIG_CUT=y
 CONFIG_EXPR=y
 CONFIG_EXPR_MATH_SUPPORT_64=y
 CONFIG_SLEEP=y
+# facilitate cellular below
+CONFIG_MKNOD=y
+CONFIG_WC=y
+# facilitate cellular above
 
